@@ -1,11 +1,10 @@
 images used:-
-    image shown in the first testimonial:-
-        image shown in the fourth testimonial:-
-        Image by <a href="https://pixabay.com/users/praxie05-2481140/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8708710">Kellie</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8708710">Pixabay</a>
+    image shown in the fourth testimonial:-
+        Image by <a href="https://pixabay.com/users/javaistan-16472466/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6622692">Afif Ramdhasuma</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6622692">Pixabay</a>
 
 
     image shown in the second testimonial:-
-        Image by <a href="https://pixabay.com/users/javaistan-16472466/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6622692">Afif Ramdhasuma</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6622692">Pixabay</a>
+        Image by <a href="https://pixabay.com/users/praxie05-2481140/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8708710">Kellie</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8708710">Pixabay</a>
 
 
     image shown in the third testimonial:-
