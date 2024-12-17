@@ -4,7 +4,7 @@ const testimonials = [
             name: 'Bella',
             image: 'assets/figurine-6622692_1280.jpg'
         },
-        detail: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, illum nisi excepturi mollitia reiciendis sit rerum, neque fugit doloremque tempore doloribus? Similique, qui blanditiis eaque libero eum necessitatibus quae sunt?',
+        detail: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, illum nisi excepturi mollitia reiciendis sit rerum, neque fugit doloremque tempore doloribus? Similique, qui blanditiis eaque libero eum necessitatibus quae sunt? Ut, maxime temporibus cum magni quibusdam, ullam eaque illum quos libero, recusandae harum. Nulla fuga ullam corporis nesciunt et qui obcaecati commodi',
         date: '26 Oct 2024'
     },
     {
@@ -61,14 +61,26 @@ const prevTestimonial = () => {
 const updatePage = () => {
     let markup = makeTestimonialCard(testimonials[currentTestimonial]);
 
-    if(testimonials.length > 0){
+    let n = testimonials.length
+
+    if(currentTestimonial === 0){
+        markup += `<nav><button onclick="nextTestimonial()">Next</button></nav>`
+    }else if(currentTestimonial === testimonials.length - 1) {
+        markup += `<nav><button onclick="prevTestimonial()">Previous</button></nav>`
+    }else {
         markup += `<nav>
-            <button onclick="prevTestimonial()">Previous</button>
-            <button onclick="nextTestimonial()">Next</button>
+        <button onclick="prevTestimonial()">Previous</button>
+        <button onclick="nextTestimonial()">Next</button>
         </nav>`
     }
     
-
+    // else if(testimonials.length > 0){
+    //     markup += `<nav>
+    //         <button onclick="prevTestimonial()">Next</button>
+    //         <button onclick="nextTestimonial()">Next</button>
+    //         </nav>`
+    // }
+    
     containerElement.innerHTML = markup;
 }
 
