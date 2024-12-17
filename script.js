@@ -12,24 +12,24 @@ const testimonials = [
             name: 'Bailey',
             image: 'assets/ai-generated-8708710_1280.jpg'
         },
-        detail: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, illum nisi excepturi mollitia reiciendis sit rerum, neque fugit doloremque tempore doloribus? Similique, qui blanditiis eaque libero eum necessitatibus quae sunt?',
-        date: '26 Oct 2024'
+        detail: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, illum nisi excepturi mollitia reiciendis sit rerum, neque fugit doloremque tempore doloribus? Similique, qui blanditiis eaque libero eum necessitatibus quae sunt? Ex quos animi voluptas beatae soluta facilis ipsum ullam earum ea minima magnam, totam nisi dolorem nobis omnis exercitationem iure dolorum consequuntur!',
+        date: '1 Nov 2024'
     },
     {
         author: {
             name: 'Beau',
             image: 'assets/ai-generated-8691773_1280.jpg'
         },
-        detail: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, illum nisi excepturi mollitia reiciendis sit rerum, neque fugit doloremque tempore doloribus? Similique, qui blanditiis eaque libero eum necessitatibus quae sunt?',
-        date: '26 Oct 2024'
+        detail: 'Placeat, nemo quos. Nostrum quisquam numquam ullam, repudiandae saepe asperiores. Beatae porro dolore inventore ipsum. Tempora, voluptatum quibusdam dolorem beatae doloribus at! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, illum nisi excepturi mollitia reiciendis sit rerum, neque fugit doloremque tempore doloribus? Similique, qui blanditiis eaque libero eum necessitatibus quae sunt?',
+        date: '10 Dec 2024'
     },
     {
         author: {
             name: 'Abby',
             image: 'assets/dog-8161639_1280.jpg'
         },
-        detail: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, illum nisi excepturi mollitia reiciendis sit rerum, neque fugit doloremque tempore doloribus? Similique, qui blanditiis eaque libero eum necessitatibus quae sunt?',
-        date: '26 Oct 2024'
+        detail: 'Ratione esse enim in accusantium! Enim ab ipsa odio architecto illo nesciunt, omnis necessitatibus similique repellat debitis inventore, animi eum perferendis dolor. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, illum nisi excepturi mollitia reiciendis sit rerum, neque fugit doloremque tempore doloribus? Similique, qui blanditiis eaque libero eum necessitatibus quae sunt?',
+        date: '1 Jan 2025'
     }
 ]
 
